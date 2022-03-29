@@ -66,6 +66,10 @@ h1 {
   color: #28a745;
 }
 
+.controls .btn .fa-pause {
+  color: #fff;
+}
+
 .controls .btn .fa-stop {
   color: #dc3545;
 }
